@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nmesoma 👋
 
-<!--
-**mesoma135/mesoma135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Engineering student  
+⚙️ I am currently Backend-focused, and exploring full-stack development  
+🧠 I'm interested in real-time systems, data, and AI/ML  
 
-Here are some ideas to get you started:
+## 🚀 What I’m working on
+- Real-time flight tracking & anomaly detection systems
+- Full-stack applications with Node.js & databases
+- ML-ready backend architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stacks
+Node.js • TypeScript • Express • MongoDB • SQL • WebSockets • Python
+
+📫 Let’s connect: https://linkedin.com/in/nmesomaonumaegbu or mesomaonumaegbu135@gmail.com
