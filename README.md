@@ -7,9 +7,10 @@
 ## 🚀 What I’m working on
 - Real-time flight tracking & anomaly detection systems
 - Full-stack applications with Node.js & databases
-- ML-ready backend architectures
+- Redis cache-aside caching
+- Machine Learning backend architectures
 
-## 🛠️ Tech Stacks
-Node.js • TypeScript • Express • MongoDB • SQL • WebSockets • Python
+## 🛠️ Technologies
+Node.js • TypeScript • Express • MongoDB • SQL • WebSockets • Python • Scikit-learn • Redis
 
 📫 Let’s connect: https://linkedin.com/in/nmesomaonumaegbu or mesomaonumaegbu135@gmail.com
