@@ -11,6 +11,6 @@ I'm interested in real-time systems, data, and AI/ML
 - Machine Learning backend architectures
 
 ## Technologies
-Node.js • TypeScript • Express • MongoDB • SQL • WebSockets • Python • Scikit-learn • Redis
+Node.js • TypeScript • Express • MongoDB • SQL • WebSockets • Python • Pytorch • Scikit-learn • Redis
 
 Let’s connect: https://linkedin.com/in/nmesomaonumaegbu or mesomaonumaegbu135@gmail.com
